@@ -794,8 +794,8 @@ header::after {
   font-size: 0.85rem;
 }
 #info {
-  max-width: 50rem;
-  width: 50rem;
+  max-width: auto;
+  width: auto;
   margin-bottom: 0.75rem;
 }
 .prev-btn,

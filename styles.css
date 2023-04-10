@@ -759,8 +759,8 @@ header::after {
 }
 .img-container {
   position: relative;
-  width: 550px;
-  height: 400px;
+  width: auto;
+  height: auto;
   border-radius: 20%;
   margin: 0 auto;
   margin-bottom: 1.5rem;
@@ -824,7 +824,7 @@ header::after {
 }
 .container2 p {
   color: var(--clr-black);
-  max-width: 25rem;
+  max-width: auto;
   margin: 0 auto;
   margin-bottom: 1.25rem;
 }
